@@ -1,0 +1,15 @@
+{
+    "name": "kazuto/pint-preset",
+    "description": "Opiniated Laravel Pint Preset",
+    "homepage": "https://github.com/kazuto/pint-preset",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Kai Mayer",
+            "email": "mail@kazuto.de",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
