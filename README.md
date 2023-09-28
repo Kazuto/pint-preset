@@ -1,5 +1,5 @@
 # Installation
-`composer required kazuto/pint-preset --dev`
+`composer require kazuto/pint-preset --dev`
 
 # Usage
 - Add the following script to your composer.json for minimal setup:
